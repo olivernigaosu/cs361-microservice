@@ -28,4 +28,5 @@ Password: password123
 Phone Number: 123-456-7890
 Email: johndoe@example.com
 
-![cs361 UML](https://github.com/olivernigaosu/cs361-microservice/assets/156348566/064046d7-eb6c-4230-9885-63280fd2bb67)
+
+![cs361 UML (1)](https://github.com/olivernigaosu/cs361-microservice/assets/156348566/412a0fe5-058e-485b-8126-291ebbce9e2c)
